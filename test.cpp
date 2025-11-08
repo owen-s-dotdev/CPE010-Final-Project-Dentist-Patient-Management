@@ -3,6 +3,7 @@
 //
 
 #include <iostream>
+#include "patient.h"
 
 int main(){
     std::cout << "Hello World!\n";
